@@ -1,7 +1,7 @@
 {
   "name": "__Name__",
-  "version": "__DESCRIPTION__",
-  "description": "",
+  "version": "1.0.0",
+  "description": "__Descripton__",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
